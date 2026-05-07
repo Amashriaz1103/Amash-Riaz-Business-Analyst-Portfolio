@@ -1,1 +1,1 @@
-# BA-portfolio
+Data Analyst and Business Analyst Portfolio
